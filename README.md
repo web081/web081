@@ -2,7 +2,7 @@
 - 👀 I’m interested in creative Idea & building roboust apps
 #
 #🌱 I’m currently working on the following project 
--   [sls-todo-app](https://github.com/web081/sls-todo-app)
+-   [Python Messaging Application with RabbitMQ/Celery](https://github.com/web081/Messaging-System-with-RabbitMQ-Celery-and-Python)
 -   [monlith to microservices](https://github.com/web081/monlith-app-to-microservices)
 -   [Restful Auth App](https://github.com/web081/restapi-auth-app)
 - 💞️ I’m looking to collaborate on ...
